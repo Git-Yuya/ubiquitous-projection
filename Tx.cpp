@@ -110,7 +110,7 @@ int main()
     // qが押されるまで表示を継続
     while (1)
     {
-        cv::imshow("Level2.4_Tx", img);
+        cv::imshow("Tx", img);
 
         // キーイベント
         int key = cv::waitKey(1);
