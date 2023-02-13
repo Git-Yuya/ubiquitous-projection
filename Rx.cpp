@@ -12,7 +12,7 @@
 #include <Windowsx.h>
 
 // Windows.hをインクルードしたい場合は、Windows.ｈよりもWinsock2.hを先にインクルード
-// なんならWindows.ｈだけでも、Winsock2.hだけでも動く。
+// なんならWindows.ｈだけでも、Winsock2.hだけでも動く
 
 // UDP通信用ライブラリ
 #pragma comment(lib, "ws2_32.lib")
