@@ -1,6 +1,6 @@
 # ユビキタスプロジェクション
 
-https://github.com/Git-Yuya/ubiquitous-projection/assets/84259422/efe82fbe-1060-47fe-afa7-0d6cb20c8e63
+https://github.com/Git-Yuya/ubiquitous-projection/assets/84259422/07c8a945-eec3-40b5-abd3-2f79d617a14a
 
 ## 機能
 <img src="https://github.com/Git-Yuya/ubiquitous-projection/assets/84259422/7d044df2-5c52-4a58-a26d-f07c40a15e83" alt="描写画面" width="300">
