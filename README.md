@@ -3,7 +3,7 @@
 https://github.com/Git-Yuya/ubiquitous-projection/assets/84259422/efe82fbe-1060-47fe-afa7-0d6cb20c8e63
 
 ## 機能
-![key_event](https://github.com/Git-Yuya/ubiquitous-projection/assets/84259422/7d044df2-5c52-4a58-a26d-f07c40a15e83)
+<img src="https://github.com/Git-Yuya/ubiquitous-projection/assets/84259422/7d044df2-5c52-4a58-a26d-f07c40a15e83" alt="描写画面" width="300">
 
 ### 線の描写
 マウスの右クリックを押している状態で、マウスを動かすと線を描写する。
